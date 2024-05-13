@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAie8YIvpfJ42YXD4xErzBRMRvS7WM0bBg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>30507147674</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.teacherTracker</string>
+	<key>PROJECT_ID</key>
+	<string>gla-teacher-tracker</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gla-teacher-tracker.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:30507147674:ios:82c9cdfb8f2aa8a7d45a23</string>
+</dict>
+</plist>
